@@ -2,7 +2,7 @@
   "name": "json_merge",
   "version": "v0.0.1",
   "description": "JS script to merge two JSON files together",
-  "author": "Jan Mikes <jan.mikes@s-itsolutions.at>",
+  "author": "gJMI",
   "license": "MIT",
   "repository" : {
     "type" : "git",
